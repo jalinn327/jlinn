@@ -1,0 +1,29 @@
+{
+"short_name": "Carapp",
+"name": "Car App",
+"background_color": "white",
+"dir": "rtl",
+"lang": "en-US",
+"display": "standalone",
+"icons": [
+{
+	"src": "/form/icon128.png",
+	"type": "image/png",
+	"sizes": "128x128"
+},
+{
+	"src": "/form/icon.png",
+	"type": "image/png",
+	"sizes": "192x192"
+},
+{
+	"src": "/form/icon512.png",
+	"type": "image/png",
+	"sizes": "512x512"
+}
+],
+"start_url": "/login.html",
+"orientation": "any",
+"prefer_related_applications": false,
+"theme_color": "black"
+}
